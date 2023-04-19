@@ -81,4 +81,7 @@ p {
     padding: 0;
     text-align: center;
   }
+  .dictionary {
+    padding-top: 50px;
+  }
 }
