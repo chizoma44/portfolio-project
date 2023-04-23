@@ -1,5 +1,3 @@
-/*font-family: 'Playfair Display', serif;
-font-family: 'Poppins', sans-serif;*/
 :root {
   --branding-color: #6c63ff;
   --secondary-color: #f9f7fe;
@@ -46,19 +44,30 @@ p {
   margin: 0;
   color: #272142;
 }
-.about-section {
+.content-container {
   padding: 160px 20px;
-  text-align: center;
 }
-.about-section h1 {
+.content-container h1 {
   font-size: 64px;
   line-height: 80px;
 }
-.about-section h2 {
+.content-container h2 {
   margin-top: 35px;
   margin-bottom: 25px;
   font-size: 20px;
   font-family: var(--heading-font-family);
+}
+.content {
+  margin: 30px;
+}
+.content h3 {
+  font-size: 24px;
+  line-height: 1.5;
+  font-family: var(--heading-font-family);
+}
+.content p {
+  margin: 0;
+  font-size: 14px;
 }
 
 .btn-branding {
@@ -98,7 +107,7 @@ p {
   .dictionary {
     padding-top: 50px;
   }
-  .about-section {
+  .content-container {
     text-align: center;
     padding: 0;
   }
