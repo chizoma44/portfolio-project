@@ -61,12 +61,12 @@ p {
   margin: 30px;
 }
 .content h3 {
+  margin: 20px 0 0;
   font-size: 24px;
   line-height: 1.5;
   font-family: var(--heading-font-family);
 }
 .content p {
-  margin: 0;
   font-size: 14px;
 }
 
@@ -89,6 +89,7 @@ p {
 .project-description {
   padding: 120px 60px;
 }
+
 @media (max-width: 900px) {
   h1 {
     font-size: 49px;
@@ -110,5 +111,14 @@ p {
   .content-container {
     text-align: center;
     padding: 0;
+  }
+  .sunset-city {
+    padding: 0;
+  }
+  .sunset-city-paragraph {
+    padding-bottom: 40px;
+  }
+  .eyem-fish-paragraph {
+    padding-bottom: 40px;
   }
 }
