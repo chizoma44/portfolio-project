@@ -4,6 +4,9 @@
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
+body {
+  background: black;
+}
 h1,
 h2,
 h3,
