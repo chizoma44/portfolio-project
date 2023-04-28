@@ -1,6 +1,6 @@
 :root {
-  --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
+  --branding-color: #857ffe;
+  --secondary-color: #cec0f1;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -47,8 +47,12 @@ p {
   margin: 0;
   color: #272142;
 }
+.under-hero {
+  color: #d1c4f3;
+}
 .content-container {
   padding: 160px 20px;
+  color: #d1c4f3;
 }
 .content-container h1 {
   font-size: 64px;
@@ -108,9 +112,7 @@ p {
     padding: 0;
     text-align: center;
   }
-  .dictionary {
-    padding-top: 50px;
-  }
+
   .content-container {
     text-align: center;
     padding: 0;
