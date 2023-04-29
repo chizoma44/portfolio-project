@@ -30,7 +30,7 @@ p {
   line-height: 30px;
 }
 .hero {
-  background: var(--secondary-color);
+  background: #191326;
   text-align: center;
   padding: 160px 20px;
 }
@@ -95,6 +95,19 @@ p {
 }
 .project-description {
   padding: 120px 60px;
+}
+.footer {
+  font-family: var(--heading-font-family);
+}
+.email-link {
+  text-decoration: none;
+  font-size: 20px;
+}
+.email-link:hover {
+  color: #272142;
+}
+.fa-brands:hover {
+  color: red;
 }
 
 @media (max-width: 900px) {
