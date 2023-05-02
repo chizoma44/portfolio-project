@@ -118,6 +118,9 @@ p.footer-text:hover {
 .fa-brands:hover {
   color: red;
 }
+.developer {
+  color: #d1c4f3;
+}
 
 @media (max-width: 900px) {
   h1 {
