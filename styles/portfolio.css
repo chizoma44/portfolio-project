@@ -34,7 +34,7 @@ p {
   color: red;
 }
 .hero {
-  background: #191326;
+  background: var(--secondary-color);
   text-align: center;
   padding: 120px 20px;
 }
@@ -103,6 +103,7 @@ p {
 .footer {
   font-family: var(--heading-font-family);
   padding: 0 40px;
+  color: #d1c4f3;
 }
 p.footer-text:hover {
   color: red;
