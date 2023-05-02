@@ -145,7 +145,6 @@ p.footer-text:hover {
   }
   .sunset-city-paragraph {
     padding-bottom: 40px;
-    color: white;
   }
   .eyem-fish-paragraph {
     padding-bottom: 40px;
@@ -160,8 +159,5 @@ p.footer-text:hover {
   .btn-branding .talk {
     display: none;
     padding: 4px;
-  }
-  .photographer {
-    color: white;
   }
 }
