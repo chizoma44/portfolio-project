@@ -159,4 +159,7 @@ p.footer-text:hover {
     display: none;
     padding: 4px;
   }
+  .photographer {
+    color: white;
+  }
 }
