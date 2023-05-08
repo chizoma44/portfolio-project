@@ -1,6 +1,6 @@
 :root {
   --branding-color: #0d086f;
-  --secondary-color: #cec0f1;
+  --secondary-color: #18044a;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -29,9 +29,6 @@ p {
   font-size: 16px;
   font-weight: normal;
   line-height: 30px;
-}
-.nav-brand img {
-  color: red;
 }
 .hero {
   background: var(--secondary-color);
