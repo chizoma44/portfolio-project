@@ -4,8 +4,10 @@
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
-body {
-  background: black;
+html {
+  background: rgb(13, 1, 1);
+  width: 100%;
+  min-height: 100vh;
 }
 h1,
 h2,
